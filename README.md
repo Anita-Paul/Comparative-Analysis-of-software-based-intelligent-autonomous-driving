@@ -21,8 +21,8 @@ The purpose of this paper was to study about autonomous cars, working of autonom
 All the algorithm work use different technique to for detection of objects. Most effective algorithm among all others algorithm is Point Tracking using KLT algorithm because it is effective and efficient algorithm. 
 
 # Algorithm 
-ACF (Aggregate channel features)
-Lane detection using bird eye view
+ACF (Aggregate channel features) || 
+Lane detection using bird eye view ||
 Point tracker
 
 # REFERENCE
